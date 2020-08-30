@@ -1,0 +1,23 @@
+{
+  "name": "cactus",
+  "version": "1.0.0",
+  "description": "proyecto taller avanzado desarrollo web",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jwt-simple": "^0.5.6",
+    "moment": "^2.27.0",
+    "mongoose": "^5.9.28",
+    "nodemailer": "^6.4.11",
+    "rut.js": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Oviedo",
+  "license": "ISC"
+}
